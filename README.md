@@ -23,7 +23,7 @@ Este projeto vai ser desenvolvido para aplicar conceitos fundamentais do Front-E
 - Formulários de Login, Registro e Recuperação de Conta.
 - Barra de navegação funcional e adaptativa (menu sanduíche em dispositivos móveis).
 - Rodapé com links úteis.
-- Utilização de `useState` para adicionar interatividade (ex.: alternador de tema ou contador).
+- Utilização de `useState` para adicionar interatividade.
 
 ## Responsividade e Design
 
